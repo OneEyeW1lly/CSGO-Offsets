@@ -1,6 +1,6 @@
 using System;
 
-// 2020-10-06 11:40:19.743506600 UTC
+// 2020-10-09 11:43:07.737212500 UTC
 
 namespace hazedumper
 {
@@ -139,7 +139,7 @@ namespace hazedumper
         public const Int32 dwZoomSensitivityRatioPtr = 0xD46700;
         public const Int32 dwbSendPackets = 0xD41DA;
         public const Int32 dwppDirect3DDevice9 = 0xA7030;
-        public const Int32 find_hud_element = 0x3A4317D0;
+        public const Int32 find_hud_element = 0x3A4117D0;
         public const Int32 force_update_spectator_glow = 0x3A0752;
         public const Int32 interface_engine_cvar = 0x3E9EC;
         public const Int32 is_c4_owner = 0x3AD1E0;
