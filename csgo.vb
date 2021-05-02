@@ -1,4 +1,4 @@
-' 2021-04-29 20:11:33.968864400 UTC
+' 2021-05-02 19:27:12.608831600 UTC
 
 Namespace hazedumper
     Public Shared Class netvars
@@ -141,7 +141,7 @@ Namespace hazedumper
         Public Const dwZoomSensitivityRatioPtr as Integer = &HD97D60
         Public Const dwbSendPackets as Integer = &HD75EA
         Public Const dwppDirect3DDevice9 as Integer = &HA7050
-        Public Const find_hud_element as Integer = &H336AEA20
+        Public Const find_hud_element as Integer = &H32C0EA20
         Public Const force_update_spectator_glow as Integer = &H3AEE0A
         Public Const interface_engine_cvar as Integer = &H3E9EC
         Public Const is_c4_owner as Integer = &H3BB960
