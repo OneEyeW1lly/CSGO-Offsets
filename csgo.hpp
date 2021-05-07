@@ -1,7 +1,7 @@
 #pragma once
 #include <cstddef>
 
-// 2021-05-04 10:23:26.129555300 UTC
+// 2021-05-07 12:36:02.154270600 UTC
 
 namespace hazedumper {
 namespace netvars {
@@ -128,7 +128,7 @@ constexpr ::std::ptrdiff_t dwGetAllClasses = 0xDB4FF4;
 constexpr ::std::ptrdiff_t dwGlobalVars = 0x589CE8;
 constexpr ::std::ptrdiff_t dwGlowObjectManager = 0x52ED6A8;
 constexpr ::std::ptrdiff_t dwInput = 0x51F67E0;
-constexpr ::std::ptrdiff_t dwInterfaceLinkList = 0x947774;
+constexpr ::std::ptrdiff_t dwInterfaceLinkList = 0x947844;
 constexpr ::std::ptrdiff_t dwLocalPlayer = 0xD8D2CC;
 constexpr ::std::ptrdiff_t dwMouseEnable = 0xD92E70;
 constexpr ::std::ptrdiff_t dwMouseEnablePtr = 0xD92E40;
@@ -142,9 +142,9 @@ constexpr ::std::ptrdiff_t dwWeaponTable = 0x51F72A0;
 constexpr ::std::ptrdiff_t dwWeaponTableIndex = 0x325C;
 constexpr ::std::ptrdiff_t dwYawPtr = 0xD92AD0;
 constexpr ::std::ptrdiff_t dwZoomSensitivityRatioPtr = 0xD97D70;
-constexpr ::std::ptrdiff_t dwbSendPackets = 0xD76CA;
+constexpr ::std::ptrdiff_t dwbSendPackets = 0xD76DA;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA7050;
-constexpr ::std::ptrdiff_t find_hud_element = 0x283BF5A0;
+constexpr ::std::ptrdiff_t find_hud_element = 0x284FF5A0;
 constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3AF9FA;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3E9EC;
 constexpr ::std::ptrdiff_t is_c4_owner = 0x3BC630;
