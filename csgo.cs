@@ -1,6 +1,6 @@
 using System;
 
-// 2021-05-14 10:42:44.375162400 UTC
+// 2021-05-20 15:02:52.177765 UTC
 
 namespace hazedumper
 {
@@ -128,7 +128,7 @@ namespace hazedumper
         public const Int32 dwGameRulesProxy = 0x52C42EC;
         public const Int32 dwGetAllClasses = 0xDB601C;
         public const Int32 dwGlobalVars = 0x589CE8;
-        public const Int32 dwGlowObjectManager = 0x52EF6B0;
+        public const Int32 dwGlowObjectManager = 0x52EF6C8;
         public const Int32 dwInput = 0x51F87D0;
         public const Int32 dwInterfaceLinkList = 0x947BF4;
         public const Int32 dwLocalPlayer = 0xD8E2CC;
@@ -146,7 +146,7 @@ namespace hazedumper
         public const Int32 dwZoomSensitivityRatioPtr = 0xD98D70;
         public const Int32 dwbSendPackets = 0xD779A;
         public const Int32 dwppDirect3DDevice9 = 0xA7050;
-        public const Int32 find_hud_element = 0x2C45FA00;
+        public const Int32 find_hud_element = 0x3407FA00;
         public const Int32 force_update_spectator_glow = 0x3AFDFA;
         public const Int32 interface_engine_cvar = 0x3E9EC;
         public const Int32 is_c4_owner = 0x3BCA40;
