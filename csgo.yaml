@@ -1,5 +1,5 @@
 ---
-timestamp: 1622444855
+timestamp: 1622662840
 signatures:
   anim_overlays: 10624
   clientstate_choked_commands: 19760
@@ -46,7 +46,7 @@ signatures:
   dwZoomSensitivityRatioPtr: 14236952
   dwbSendPackets: 882394
   dwppDirect3DDevice9: 684112
-  find_hud_element: 816904576
+  find_hud_element: 668203392
   force_update_spectator_glow: 3865962
   interface_engine_cvar: 256492
   is_c4_owner: 3918272
